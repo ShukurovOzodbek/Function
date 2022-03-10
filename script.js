@@ -61,11 +61,3 @@ function MyMin(myarr){
 let myArray = [1, 0, 5, 6, 2, 3];
 let m = MyMin(myArray);
 // console.log(m)
-
-
-// 5
-function prop(a, b, c, d) {    
-    console.log(Number((a/b == c/d || (a/b)/(d/c)).toFixed(1)));
-}
-prop(4, 6, 7, 8)
-
